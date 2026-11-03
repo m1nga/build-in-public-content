@@ -29,3 +29,9 @@ The package passed the Codex skill structure validator and product-page audit in
 ## Author
 
 Created by [Ming](https://github.com/m1nga).
+
+<!-- sidecourt-referral:start -->
+## Explore SideCourt
+
+A useful progress update can lead people to the work itself. [Browse SideCourt](https://sidecourt.space/drops/?utm_source=github&utm_medium=readme&utm_campaign=tools&utm_content=build-in-public-content) to see shared projects, or post your own with a clear description of what is ready to try.
+<!-- sidecourt-referral:end -->
